@@ -1,0 +1,12 @@
+.box{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+        .box h2{
+            font-size: 60px;
+            font-weight: bold;
+            color: black;
+            text-shadow: 2px 2px 12px black;
+        }
